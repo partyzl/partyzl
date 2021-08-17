@@ -13,9 +13,15 @@ class Person {
     }
     
     aboutMe(){
-        console.log(`Hi, I am ${this.name} from ${this.location}! I am a ${this.occupation} at ${this.company} and my hobbies include            ${this.hobbies}`)
+        console.log(`Hi, I am ${this.name} from ${this.location}! I am a ${this.occupation} at ${this.company} 
+            and my hobbies include ${this.hobbies}`)
     }
 }
+
+let parth = new Person('Parth','Trainee Full Stack Developer', 'Futureproof', 'London', 'football,
+            reading, and talking to my duck');
+
+parth.aboutMe();
 
 ```
 ---
