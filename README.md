@@ -14,7 +14,7 @@
 <img src="https://i.imgur.com/KU5xR5u.png" width="40px" alt="Jest"/> &nbsp;
 <img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> &nbsp;
 <img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
-<img src="https://imgur.com/PgdzSa8.png" width="40px" alt="Docker"/> &nbsp;
+<img src="https://www.seekpng.com/png/detail/442-4428827_docker-logo-docker-logo-png.png" width="40px" alt="Docker"/> &nbsp;
 
 <!--
 **partyzl/partyzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
