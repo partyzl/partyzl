@@ -17,8 +17,9 @@
 <img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> &nbsp;
 <img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl)](https://github.com/anuraghazra/github-readme-stats)
+#### My most used languages:point_down:
 
+[![Parth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=4%22%3E)
 
 
 <!--
