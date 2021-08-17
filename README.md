@@ -17,6 +17,9 @@
 <img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> &nbsp;
 <img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **partyzl/partyzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
