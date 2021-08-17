@@ -2,6 +2,9 @@
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 
+```Javascript
+```
+
 ## 💻 Techs, Languages & Tools I use
 
 <img src="https://i.imgur.com/o0GEoUG.png" width="40px" alt="JS"/> &nbsp;
