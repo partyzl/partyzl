@@ -42,7 +42,7 @@ parth.aboutMe();
 ---
 #### My most used languages:point_down:
 
-![Parth's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=react&bg_color=00000000&langs_count=6%22%3E)
+![Parth's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6%22%3E)
 
 
 <!--
