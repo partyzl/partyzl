@@ -4,9 +4,10 @@
 ---
 ```Javascript
 class aboutMe {
-    constructor(name, occupation, location){
+    constructor(name, occupation, company, location){
         this.name = name;
         this.occupation = occupation;
+        this.company = company;
         this.location = location;
     }
 }
