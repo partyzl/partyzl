@@ -19,7 +19,7 @@
 
 #### My most used languages:point_down:
 
-[![Parth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=4%22%3E)]
+![Parth's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=4%22%3E)
 
 
 <!--
