@@ -1,7 +1,7 @@
-### Hi there 👋
-
+## Hi there 👋
+---
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
-
+---
 ```Javascript
 class aboutMe {
     constructor(name, occupation, location){
@@ -12,7 +12,7 @@ class aboutMe {
 }
 
 ```
-
+---
 ## 💻 Techs, Languages & Tools I use
 
 <img src="https://i.imgur.com/o0GEoUG.png" width="40px" alt="JS"/> &nbsp;
@@ -27,7 +27,7 @@ class aboutMe {
 <img src="https://i.imgur.com/KU5xR5u.png" width="40px" alt="Jest"/>
 <img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> 
 <img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
-
+---
 #### My most used languages:point_down:
 
 ![Parth's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6%22%3E)
