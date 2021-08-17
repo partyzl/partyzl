@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=partyzl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 
 ## 💻 Techs, Languages & Tools I use
