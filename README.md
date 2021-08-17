@@ -11,7 +11,8 @@
 <img src="https://i.imgur.com/p0iInfp.png" width="40px" alt="SQL"/> &nbsp;
 <img src="https://i.imgur.com/Gt41wVy.png" width="40px" alt="python" /> &nbsp; 
 <img src="https://i.imgur.com/G4ewIRk.png" width="40px" alt="React"/> &nbsp;
-<img src="https://i.imgur.com/FfL7MyP.png" width="40px" alt="Express"/>&nbsp;<img src="https://i.imgur.com/uGHPrRG.png" width="35px" alt="nodejs"/> &nbsp;
+<img src="https://i.imgur.com/FfL7MyP.png" width="40px" alt="Express"/>&nbsp;
+<img src="https://i.imgur.com/uGHPrRG.png" width="35px" alt="nodejs"/> &nbsp;
 <img src="https://i.imgur.com/KU5xR5u.png" width="40px" alt="Jest"/> &nbsp;
 <img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> &nbsp;
 <img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
