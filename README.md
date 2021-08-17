@@ -11,9 +11,9 @@
 <img src="https://i.imgur.com/TSZVG5g.png" width="40px" alt="html-5" /> &nbsp;
 <img src="https://i.imgur.com/9xbG6Ox.png" width="35px" alt="css"/> &nbsp; 
 <img src="https://i.imgur.com/uGHPrRG.png" width="35px" alt="nodejs"/> &nbsp;
-<img src="https://i.imgur.com/KU5xR5u.png" width="40px" alt="Jest"/>
-<img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/>
-<img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/>
+<img src="https://i.imgur.com/KU5xR5u.png" width="40px" alt="Jest"/> &nbsp;
+<img src="https://i.imgur.com/1z0WLUq.png" width="70px" alt="Junit"/> &nbsp;
+<img src="https://i.imgur.com/pMeFDIZ.png" width="40px" alt="Selenium"/> &nbsp;
 <img src="https://imgur.com/PgdzSa8" width="40px" alt="Docker"/> &nbsp;
 
 <!--
