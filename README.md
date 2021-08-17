@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---
-![<p align = "center">Parth's GitHub stats</p>](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
+![Parth's GitHub stats]<a align = "center">(https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)</a>
 ---
 ```Javascript
 class aboutMe {
