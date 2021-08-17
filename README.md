@@ -3,6 +3,11 @@
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 
 ```Javascript
+let name;
+let occupation;
+let hobbies = [];
+
+
 ```
 
 ## 💻 Techs, Languages & Tools I use
