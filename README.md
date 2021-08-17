@@ -3,12 +3,17 @@
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 ---
 ```Javascript
-class aboutMe {
-    constructor(name, occupation, company, location){
+class Person {
+    constructor(name, occupation, company, location, hobbies){
         this.name = name;
         this.occupation = occupation;
         this.company = company;
         this.location = location;
+        this.hobbies = hobbies;
+    }
+    
+    aboutMe(){
+        console.log(`Hi, I am ${this.name} from ${this.location}! I am a ${this.occupation} at ${this.company} and my hobbies include            ${this.hobbies}`)
     }
 }
 
