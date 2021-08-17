@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=radical)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 
 ## 💻 Techs, Languages & Tools I use
 
