@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---
-<p align= "center">![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)</p>
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 ---
 ```Javascript
 class aboutMe {
