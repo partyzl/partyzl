@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Parth+and+this+is+my+Github++++++++++++++++)](https://git.io/typing-svg)
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ---
+
 ```Javascript
 class Person {
     constructor(name, occupation, company, location, hobbies){
@@ -36,7 +37,7 @@ parth.aboutMe();
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
