@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Parth+and+this+is+my+Github++++++++++++++++)](https://git.io/typing-svg)
 ---
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=partyzl&show_icons=true&theme=react)
 ---
