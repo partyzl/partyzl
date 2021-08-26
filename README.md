@@ -25,7 +25,7 @@ parth.aboutMe();
 
 ```
 ---
-## 💻 Techs, Languages & Tools I use
+## 💻 Techs, Languages & Tools I have used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -43,6 +43,9 @@ parth.aboutMe();
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 ---
 #### My most used languages:point_down:
 <div align="center">    
@@ -50,9 +53,14 @@ parth.aboutMe();
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=partyzl&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
      </a>
      <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&theme=react&langs_count=6&line_height=40&hide=css"/>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partyzl&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
      </a>
 </div>
+
+---
+### Contact Me
+
+[<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif">](https://www.linkedin.com/in/parthpatel4496/)
 
 <!--
 **partyzl/partyzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
