@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Parth+and+this+is+my+Github++++++++++++++++)](https://git.io/typing-svg)
-<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Parth+and+this+is+my+Github++++++++++++++++)](https://git.io/typing-svg) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=partyzl&repo=partyzl&countColorcountColor&countColor=%237B1E7B"/>
+<!--<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 ---
 
 ```Javascript
@@ -61,6 +61,7 @@ parth.aboutMe();
 ### Contact Me
 
 [<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif">](https://www.linkedin.com/in/parthpatel4496/)
+
 
 <!--
 **partyzl/partyzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
