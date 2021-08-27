@@ -47,7 +47,7 @@ parth.aboutMe();
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 ---
-#### My most used languages:point_down:
+#### My stats:point_down:
 <div align="center">    
      <a href="">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=partyzl&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
